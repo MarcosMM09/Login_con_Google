@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginConGoogle</string>
+    <string name="facebook_app_id">421310489349026</string> <string name="fb_login_protocol_scheme">fb421310489349026</string>
+    <string name="cancel_login">logueo cancelado</string>
+    <string name="error_login">error al logueo</string>
+
+</resources>
